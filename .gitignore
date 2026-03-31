@@ -1,0 +1,6 @@
+
+firewall-deployment/docker-compose-artifacts/protect-local.yml
+*.log
+.DS_Store
+cicd/.DS_Store
+conformance-scan/.DS_Store
